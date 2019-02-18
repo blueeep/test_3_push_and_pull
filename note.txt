@@ -9,5 +9,9 @@ master提交
 
 master github 端修改提交
 
-本地修改，同事github那边也修改，模拟push的冲突
+
+本地修改，同时github那边也修改，模拟push的冲突
+
+再次修改，同时本地的git也做修改
+
 
